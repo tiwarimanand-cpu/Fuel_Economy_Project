@@ -114,4 +114,3 @@ Created multiple visualizations using **Matplotlib**:
 - Jupyter Notebook
 
 ---
-

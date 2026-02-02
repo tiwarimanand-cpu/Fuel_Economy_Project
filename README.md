@@ -255,12 +255,10 @@ Jupyter Notebook
 
 
 🚀 Conclusion
+
 This project demonstrates how raw, inconsistent real-world data can be transformed into interpretable machine learning models through systematic preprocessing and analysis.
 By combining regression and classification techniques, the project highlights the importance of:
 Data quality before modeling
-Model interpretability alongside performance
-Comparing multiple approaches to understand trade-offs
-Overall, this project strengthened my understanding of end-to-end applied machine learning, from data ingestion to insight generation.
 
-📌 Why this matters:
-Ending strong = interviewer ke dimaag me clarity + maturity.
+
+
